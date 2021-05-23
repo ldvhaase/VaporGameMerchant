@@ -2,6 +2,7 @@ package customer;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
+
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
@@ -23,9 +24,7 @@ public class CheckoutWindow extends JDialog {
 	private ShoppingCartList cartList;
 
 	/**
-	 * Create the dialog window
-         * @postcondition checkout window will be opened
-         * @param total value of all items in shopping cart
+	 * Create the dialog.
 	 */
 	public CheckoutWindow(double total) 
 	{

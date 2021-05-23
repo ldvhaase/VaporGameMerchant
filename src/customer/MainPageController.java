@@ -11,12 +11,6 @@ public class MainPageController
 {
 	private MainPageView view;
 	
-        /**
-         * @author Richmond Liang, Lucas Haase
-         * @param view page to be loaded in window
-         * @precondition button clicked and new view needs to be loaded
-         * @postcondition view loaded to window
-         */
 	public MainPageController(MainPageView view)
 	{
 		this.view = view;

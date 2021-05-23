@@ -25,8 +25,6 @@ public class ShoppingCartPanel extends JPanel {
 
 	/**
 	 * Create the panel.
-         * @param Product
-         * Loads the shopping cart panel with desired items
 	 */
 	public ShoppingCartPanel(Product item) 
 	{

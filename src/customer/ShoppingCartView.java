@@ -25,13 +25,6 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-/**
- * 
- * @author Richmond Liang, Lucas Haase
- * Displays shopping cart window
- * @precondition shopping cart button is pressed
- * @postcondition JFrame is opened with cart
- */
 public class ShoppingCartView extends JFrame {
 
 	private ShoppingCartList cartList;

@@ -13,7 +13,7 @@ public class CustomerProductController
 	private ShoppingCartList model;
 	
 	/**Constructor, controls the buttons on the associated panel to call the appropriate pages and functions
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the SellerProductPanel this controller controls
 	 *@precondition view initialized
 	 *@postcondition controller controls the view

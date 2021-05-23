@@ -33,7 +33,7 @@ public class AddItemView extends JFrame
 	private JLabel lblHelpPrice1;
 
 	/**Constructor, creates the frame for AddItemView
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@precondition view initialized
 	 *@postcondition frame initialized
 	 */

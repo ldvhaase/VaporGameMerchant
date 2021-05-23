@@ -28,7 +28,7 @@ public class BuyItemView extends JFrame {
 	private JTextField textQuantity;
 
 	/**Constructor, creates the frame for BuyItemView
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param item Product associated with the view
 	 *@precondition view initialized
 	 *@postcondition frame initialized

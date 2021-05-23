@@ -17,7 +17,7 @@ public class EditItemController
 	private ProductList model;
 	
 	/**Constructor
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the EditItemView this controller controls
 	 *@param item the product associated with the calling Seller panel
 	 *@precondition view initialized

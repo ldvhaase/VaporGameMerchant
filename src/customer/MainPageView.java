@@ -25,10 +25,6 @@ import product.ShoppingCartList;
 import javax.swing.JRadioButton;
 import javax.swing.ButtonGroup;
 
-/**
- * 
- * @author Richmond Liang, Lucas Haase
- */
 public class MainPageView extends JFrame {
 
 	enum Sort

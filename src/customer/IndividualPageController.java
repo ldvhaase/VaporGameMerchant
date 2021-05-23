@@ -8,22 +8,13 @@ import javax.swing.Action;
 import global.MsgWindow;
 import product.ShoppingCartList;
 
-/**
- * 
- * @author Richmond Liang, Lucas Haase
- * interacts with ShoppingCartList and View
- */
 public class IndividualPageController
 {
 
 	private ShoppingCartList model;
 	private IndividualPageView view;
 	
-	/**
-         * @precondition page not loaded
-         * @param view takes view to be loaded
-         * @postcondition view loaded to window
-         */
+	
 	public IndividualPageController(IndividualPageView view) 
 	{
 		this.view = view;

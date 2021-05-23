@@ -18,7 +18,7 @@ public class BuyItemController
 	private ProductList model;
 	
 	/**Constructor
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the BuyItemView this controller controls
 	 *@param item the product associated with the calling Seller panel
 	 *@precondition view initialized

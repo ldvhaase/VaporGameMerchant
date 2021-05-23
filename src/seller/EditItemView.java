@@ -35,7 +35,7 @@ public class EditItemView extends JFrame {
 	private JLabel lblHelpPrice1;
 
 	/**Constructor, creates the frame for BuyItemView
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param item Product associated with the view
 	 *@precondition view initialized
 	 *@postcondition frame initialized

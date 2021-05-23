@@ -9,11 +9,6 @@ import product.Product;
 import product.ProductList;
 import product.ShoppingCartList;
 
-/**
- * 
- * @author Lucas Haase, Richmond Liang
- * displays the shopping cart data
- */
 public class ShoppingCartViewController {
 
 	//private CheckoutView checkoutView;

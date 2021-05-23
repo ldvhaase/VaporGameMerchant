@@ -14,7 +14,7 @@ public class User implements Serializable
 	private AccountType type;
 	
 	/**Constructor, Creates a new user with the parameters
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param username username of the user
 	 *@param password password of the user
 	 *@param type account type of the user

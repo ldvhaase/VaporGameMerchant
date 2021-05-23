@@ -10,11 +10,6 @@ import product.Product;
 import product.ProductList;
 import product.ShoppingCartList;
 
-/**
- * 
- * @author Richmond Liang, Lucas Haase
- * controls movement of data between cartView and cartList
- */
 public class ShoppingCartPanelController  {
 
 	private ShoppingCartPanel cartView;

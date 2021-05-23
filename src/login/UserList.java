@@ -19,7 +19,7 @@ public class UserList
 	private String filenameUserList = "UserList.ser";
 	
 	/**Constructor, creates a new UserList. For the purposes of this demo, it is prepoulated with a customer account and a seller account. Users are stored in hashmap using the username as a key and the user object as the value.
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@precondition none
 	 *@postcondition creates a new userlist 
 	 */

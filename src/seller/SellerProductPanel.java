@@ -26,7 +26,7 @@ public class SellerProductPanel extends JPanel {
 	private Product product;
 
 	/**Constructor, creates individual product panels displaying information and buttons to control them.
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the SellerProductPanel this controller controls
 	 *@precondition view initialized
 	 *@postcondition controller controls the view

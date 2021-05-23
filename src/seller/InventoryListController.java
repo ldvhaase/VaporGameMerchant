@@ -12,7 +12,7 @@ public class InventoryListController
 	private InventoryListView view;
 	
 	/**Constructor, controls the upper menu bar of the view
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the InventoryListView this controller controls
 	 *@precondition view initialized
 	 *@postcondition controller attached to this view

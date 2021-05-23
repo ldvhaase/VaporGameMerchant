@@ -17,7 +17,7 @@ public class AddItemController
 	private AddItemView view;
 	
 	/**Constructor
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view view the AddItemView this controller controls
 	 *@precondition view initialized
 	 *@postcondition controller attaches listeners to view

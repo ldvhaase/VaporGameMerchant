@@ -16,7 +16,7 @@ public class LoginPageController
 	private UserList model;
 	
 	/**Constructor, adds action listeners to buttons and textfields. Pressing enter while focused on a field is the same as pressing submit
-	 *@author Richmond Liang, Lucas Haase
+	 *@author Richmond Liang
 	 *@param view the LoginPageView this controller controls
 	 *@param model the UserList the controller checks against for logging in
 	 *@precondition view and model initialized
